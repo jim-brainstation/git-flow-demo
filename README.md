@@ -1,4 +1,4 @@
-# This is a demo of GitFlow
+# This is a demo of GitFlow!
 
 ## Instructions for running our app
 1. start express app from command line
