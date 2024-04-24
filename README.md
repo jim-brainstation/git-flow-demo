@@ -1,1 +1,1 @@
-# git-flow-demo
+# This is a demo of GitFlow
